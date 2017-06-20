@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/maocorte/docker-apline-glibc.svg)](http://microbadger.com/images/maocorte/docker-apline-glibc "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/maocorte/alpine-glibc.svg)](http://microbadger.com/images/maocorte/alpine-glibc "Get your own image badge on microbadger.com")
 
 Alpine GNU C library (glibc) Docker image
 =========================================
